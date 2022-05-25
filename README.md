@@ -1,0 +1,1 @@
+# Program for automatic screenshot capture
